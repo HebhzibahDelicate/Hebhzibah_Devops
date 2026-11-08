@@ -1,0 +1,41 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Category,Product,Quantity,UnitPrice,UnitCost,Solution
+ORD001,2026-01-03,C001,Arun,Chennai,Electronics,Laptop,2,55000,42000,Enterprise
+ORD002,2026-01-05,C002,Meena,Coimbatore,Furniture,Office Chair,5,4500,2800,Retail
+ORD003,2026-01-08,C003,Karthik,Madurai,Electronics,Mouse,20,650,300,Online
+ORD004,2026-01-12,C004,Priya,Chennai,Clothing,Jacket,8,2200,1200,Retail
+ORD005,2026-01-15,C005,Divya,Trichy,Furniture,Desk,3,12000,8500,Enterprise
+ORD006,2026-01-19,C006,Suresh,Salem,Electronics,Monitor,4,14500,10500,Online
+ORD007,2026-01-22,C007,Nila,Chennai,Clothing,Shoes,10,1800,950,Retail
+ORD008,2026-01-26,C008,Vijay,Coimbatore,Electronics,Keyboard,15,1200,550,Online
+ORD009,2026-02-02,C009,Anitha,Madurai,Furniture,Bookshelf,2,9000,6200,Enterprise
+ORD010,2026-02-06,C010,Rahul,Trichy,Clothing,Shirt,12,950,420,Retail
+ORD011,2026-02-09,C001,Arun,Chennai,Electronics,Laptop,1,55000,42000,Enterprise
+ORD012,2026-02-13,C011,Lakshmi,Salem,Furniture,Office Chair,6,4500,2800,Retail
+ORD013,2026-02-17,C012,Gokul,Coimbatore,Electronics,Monitor,3,14500,10500,Online
+ORD014,2026-02-21,C013,Sneha,Madurai,Clothing,Jacket,6,2200,1200,Retail
+ORD015,2026-02-25,C014,Manoj,Chennai,Furniture,Desk,4,12000,8500,Enterprise
+ORD016,2026-03-01,C015,Keerthi,Trichy,Electronics,Mouse,30,650,300,Online
+ORD017,2026-03-04,C016,Bala,Salem,Clothing,Shoes,7,1800,950,Retail
+ORD018,2026-03-08,C017,Janani,Coimbatore,Furniture,Bookshelf,3,9000,6200,Enterprise
+ORD019,2026-03-12,C018,Praveen,Chennai,Electronics,Keyboard,25,1200,550,Online
+ORD020,2026-03-16,C019,Aishwarya,Madurai,Clothing,Shirt,15,950,420,Retail
+ORD021,2026-03-20,C020,Dinesh,Trichy,Electronics,Laptop,2,55000,42000,Enterprise
+ORD022,2026-03-24,C021,Pavithra,Salem,Furniture,Desk,2,12000,8500,Enterprise
+ORD023,2026-04-02,C022,Mohan,Chennai,Electronics,Monitor,5,14500,10500,Online
+ORD024,2026-04-06,C023,Ramya,Coimbatore,Clothing,Jacket,9,2200,1200,Retail
+ORD025,2026-04-10,C024,Hari,Madurai,Furniture,Office Chair,8,4500,2800,Retail
+ORD026,2026-04-14,C025,Swetha,Trichy,Electronics,Mouse,40,650,300,Online
+ORD027,2026-04-18,C026,Naveen,Salem,Clothing,Shoes,12,1800,950,Retail
+ORD028,2026-04-22,C027,Deepa,Chennai,Furniture,Bookshelf,4,9000,6200,Enterprise
+ORD029,2026-05-03,C028,Ramesh,Coimbatore,Electronics,Keyboard,18,1200,550,Online
+ORD030,2026-05-07,C029,Sathya,Madurai,Clothing,Shirt,20,950,420,Retail
+ORD031,2026-05-11,C030,Vimal,Trichy,Electronics,Laptop,1,55000,42000,Enterprise
+ORD032,2026-05-15,C031,Malar,Salem,Furniture,Desk,3,12000,8500,Enterprise
+ORD033,2026-05-19,C032,Joseph,Chennai,Electronics,Monitor,2,14500,10500,Online
+ORD034,2026-05-23,C033,Kavya,Coimbatore,Clothing,Jacket,7,2200,1200,Retail
+ORD035,2026-06-02,C034,Surya,Madurai,Furniture,Office Chair,4,4500,2800,Retail
+ORD036,2026-06-06,C035,Indhu,Trichy,Electronics,Mouse,25,650,300,Online
+ORD037,2026-06-10,C036,Ashok,Salem,Clothing,Shoes,9,1800,950,Retail
+ORD038,2026-06-14,C037,Monisha,Chennai,Furniture,Bookshelf,2,9000,6200,Enterprise
+ORD039,2026-06-18,C038,Sanjay,Coimbatore,Electronics,Keyboard,22,1200,550,Online
+ORD040,2026-06-22,C039,Rekha,Madurai,Clothing,Shirt,18,950,420,Retail
